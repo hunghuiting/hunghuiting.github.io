@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 我的个人主页</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on 我的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>白落梅经典语录</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;1、最是寂寥黄昏，掩去了日光的明媚。都说秋水无尘，秋云无心，这个季节的山河盛世，应该沉静无言。秋荷还在，只是落尽芳华。而我们无须执意去收拾残败的风景，因为时光仍旧骄傲地流淌。始终相信，万物的存在，都带着使命，无论起落，都有其自身的风骨。世事既有定数，我们更应当从容度日，与山水共清欢。&lt;/p&gt;
+
+&lt;p&gt;2、这是一条叫轮回的老巷，多少人，在这里寻找散落的过往。其实，故事早已改写了当初的模样，可流年，为什么还要这样叫人神伤。一定有些什么，被我不小心遗忘。否则，转角处的灯火，不会那样的荒凉。否则，昨天留下的，不会只是淡淡迷惘。如果支付了一生的时光，那么，是否就可以拥有，我想要的地久天长？&lt;/p&gt;
+
+&lt;p&gt;3、给我一段老时光，独坐在绿苔滋长的木窗下，泡一壶闲茶。不去管，那南飞燕子，何日才可以返家。不去问，那一叶小舟，又会放逐到哪里的天涯。不去想，那些走过的岁月，到底多少是真，多少是假。如果可以，我只想做一株遗世的梅花，守着寂寞的年华，在老去的渡口，和某个归人，一起静看日落烟霞。&lt;/p&gt;
+
+&lt;p&gt;4、这临水而筑的黛瓦白墙，从何时开始，成了我梦里回不去的原乡。曾经那样仓促地背上行囊，想用年华，换取一段如水的过往。走过红尘陌上，品过浮世清欢，才知道，人生不过戏梦一场。假如爱过的人，可以遗忘；犯下的错，值得原谅。就许我，用剩余的时光，重新和这里的一草一木、一瓦一檐，诉说衷肠。&lt;/p&gt;
+
+&lt;p&gt;5、听说入秋了，曾经那么喜欢霜林染醉的天气。如今却不想，听到一点儿关于秋的消息。那是因为，我怕老去。我们都不是岁月的勇者，付不起失去光阴的代价。多想风雨无惧地走下去，在白发苍颜之时，还有一颗明净若秋水长天的心。那么现在就珍惜，尘世种种的爱，让每一天，都安宁如水，慈悲简静。&lt;/p&gt;
+
+&lt;p&gt;6、开间茶馆吧。在某个临水的地方，不招摇，不繁闹。有一些古旧，一些单薄，生意冷清，甚至被人遗忘，这些都不重要。只要还有那么，那么一个客人。在午后慵懒的阳光下，将一盏茶，喝到无味；将一首歌，听到无韵；将一本书，读到无字；将一个人，爱到无心。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
